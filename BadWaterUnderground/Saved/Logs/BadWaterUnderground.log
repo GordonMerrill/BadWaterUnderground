@@ -1282,3 +1282,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-00.45.33:742][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM_System': Can't find file.
 [2021.11.11-00.45.33:744][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM_System': Can't find file.
 [2021.11.11-00.45.33:745][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/N_Flame_EM_System.N_Flame_EM_System'
+[2021.11.11-00.48.57:561][ 41]AssetReimport: New page: Outstanding source content changes 2:48:57 p.m.
+[2021.11.11-00.48.57:563][ 41]LogStaticMesh: Building static mesh FireOrbe...
+[2021.11.11-00.48.57:568][ 41]LogStaticMesh: Built static mesh [0.01s] /Game/VFX/FireOrbe.FireOrbe
+[2021.11.11-00.48.57:581][ 41]LogEditorFactories: Performing atomic reimport of [C:/Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.fbx]
+[2021.11.11-00.48.57:603][ 41]LogFbx: Loading FBX Scene from C:/Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.fbx
+[2021.11.11-00.48.57:617][ 41]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.11-00.48.57:619][ 41]LogStaticMesh: Building static mesh FireOrbe...
+[2021.11.11-00.48.57:622][ 41]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.FireOrbe
+[2021.11.11-00.48.57:628][ 41]LogStaticMesh: Building static mesh FireOrbe...
+[2021.11.11-00.48.57:631][ 41]LogStaticMesh: Built static mesh [0.00s] /Game/VFX/FireOrbe.FireOrbe
+[2021.11.11-00.48.57:638][ 41]LogEditorFactories: -- imported successfully
+[2021.11.11-00.48.58:030][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/FireOrbe" FILE="../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.uasset" SILENT=true
+[2021.11.11-00.48.58:039][ 42]LogSavePackage: Moving '../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Saved/FireOrbeA949AF1D4FCF3D6E755FEF9FDCC69E77.tmp' to '../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.uasset'
+[2021.11.11-00.48.58:087][ 43]AssetCheck: New page: Asset Save: FireOrbe
+[2021.11.11-00.48.58:087][ 43]LogContentValidation: Display: Validating StaticMesh /Game/VFX/FireOrbe.FireOrbe
+[2021.11.11-00.49.01:072][155]AssetReimport: Reimported asset FireOrbe from C:/Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.fbx.
