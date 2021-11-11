@@ -1267,3 +1267,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-00.42.27:927][580]LogContentValidation: Display: Validating SoundWave /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
 [2021.11.11-00.42.27:928][580]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/SewerLevel.SewerLevel
 [2021.11.11-00.43.08:475][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.11.11-00.45.33:737][436]LogLinker: Warning: Failed to load '/Game/VFX/FireOrbe': Can't find file.
+[2021.11.11-00.45.33:738][436]LogLinker: Warning: Failed to load '/Game/VFX/FireOrbe': Can't find file.
+[2021.11.11-00.45.33:738][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/FireOrbe.FireOrbe'
+[2021.11.11-00.45.33:739][436]LogLinker: Warning: Failed to load '/Game/VFX/M_ParticleBase': Can't find file.
+[2021.11.11-00.45.33:739][436]LogLinker: Warning: Failed to load '/Game/VFX/M_ParticleBase': Can't find file.
+[2021.11.11-00.45.33:739][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/M_ParticleBase.M_ParticleBase'
+[2021.11.11-00.45.33:739][436]LogLinker: Warning: Failed to load '/Game/VFX/M_Particle_Inst': Can't find file.
+[2021.11.11-00.45.33:740][436]LogLinker: Warning: Failed to load '/Game/VFX/M_Particle_Inst': Can't find file.
+[2021.11.11-00.45.33:740][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/M_Particle_Inst.M_Particle_Inst'
+[2021.11.11-00.45.33:740][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM': Can't find file.
+[2021.11.11-00.45.33:740][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM': Can't find file.
+[2021.11.11-00.45.33:740][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/N_Flame_EM.N_Flame_EM'
+[2021.11.11-00.45.33:742][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM_System': Can't find file.
+[2021.11.11-00.45.33:744][436]LogLinker: Warning: Failed to load '/Game/VFX/N_Flame_EM_System': Can't find file.
+[2021.11.11-00.45.33:745][436]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VFX/N_Flame_EM_System.N_Flame_EM_System'
