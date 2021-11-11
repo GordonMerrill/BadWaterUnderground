@@ -1298,3 +1298,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-00.48.58:087][ 43]AssetCheck: New page: Asset Save: FireOrbe
 [2021.11.11-00.48.58:087][ 43]LogContentValidation: Display: Validating StaticMesh /Game/VFX/FireOrbe.FireOrbe
 [2021.11.11-00.49.01:072][155]AssetReimport: Reimported asset FireOrbe from C:/Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/VFX/FireOrbe.fbx.
+[2021.11.11-00.49.47:877][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.11-00.49.59:546][181]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.11.11-00.49.59:573][181]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/SewerLevel.SewerLevel
+[2021.11.11-00.49.59:573][181]Cmd: MAP LOAD FILE="../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/FirstPersonBP/Maps/SewerLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-00.49.59:573][181]LightingResults: New page: Lighting Build
+[2021.11.11-00.49.59:573][181]LoadErrors: New page: Loading map: SewerLevel.umap
+[2021.11.11-00.49.59:576][181]LogWorld: UWorld::CleanupWorld for SewerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-00.49.59:576][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-00.49.59:576][181]MapCheck: New page: Map Check
+[2021.11.11-00.49.59:576][181]LightingResults: New page: Lighting Build
+[2021.11.11-00.49.59:648][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-00.49.59:700][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.11-00.49.59:735][181]LogAudio: Display: Audio Device (ID: 1) registered with world 'SewerLevel'.
+[2021.11.11-00.49.59:740][181]LogAIModule: Creating AISystem for world SewerLevel
+[2021.11.11-00.49.59:755][181]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-00.49.59:811][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.11-00.49.59:826][181]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-00.49.59:826][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2021.11.11-00.49.59:826][181]LogFileHelpers: Loading map 'SewerLevel' took 0.253
+[2021.11.11-00.50.25:650][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.11-00.50.26:117][202]LogTexture: Display: Building textures: Texture2D_0 (DXT1, 512X512)
+[2021.11.11-00.50.26:117][202]LogTexture: Display: Building textures: Texture2D_0 (DXT1, 512X512)
+[2021.11.11-00.50.26:463][202]LogTexture: Display: Building textures: Texture2D_0 (DXT1, 512X512)
+[2021.11.11-00.50.26:463][202]LogMaterial: Display: Missing cached shader map for material M_ParticleBase, compiling. 
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.11-00.50.26:498][202]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.11-00.50.26:613][202]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.11-00.50.26:613][202]Cmd: MAP LOAD FILE="../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-00.50.26:613][202]LightingResults: New page: Lighting Build
+[2021.11.11-00.50.26:613][202]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2021.11.11-00.50.26:617][202]LogWorld: UWorld::CleanupWorld for SewerLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-00.50.26:617][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-00.50.26:617][202]MapCheck: New page: Map Check
+[2021.11.11-00.50.26:617][202]LightingResults: New page: Lighting Build
+[2021.11.11-00.50.26:903][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-00.50.26:965][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.11.11-00.50.26:970][202]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.11.11-00.50.26:990][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-00.50.26:990][202]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.11-00.50.27:264][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.11-00.50.27:269][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-00.50.27:269][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.11.11-00.50.27:269][202]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.656
+[2021.11.11-00.53.24:128][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.11.11-00.53.24:175][635]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/SewerLevel.SewerLevel
+[2021.11.11-00.53.24:175][635]Cmd: MAP LOAD FILE="../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/FirstPersonBP/Maps/SewerLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-00.53.24:175][635]LightingResults: New page: Lighting Build
+[2021.11.11-00.53.24:175][635]LoadErrors: New page: Loading map: SewerLevel.umap
+[2021.11.11-00.53.24:182][635]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-00.53.24:182][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-00.53.24:183][635]MapCheck: New page: Map Check
+[2021.11.11-00.53.24:183][635]LightingResults: New page: Lighting Build
+[2021.11.11-00.53.24:226][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-00.53.24:232][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.11.11-00.53.24:232][635]LogAudio: Display: Audio Device (ID: 1) registered with world 'SewerLevel'.
+[2021.11.11-00.53.24:238][635]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-00.53.24:238][635]LogAIModule: Creating AISystem for world SewerLevel
+[2021.11.11-00.53.24:274][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.11.11-00.53.24:279][635]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-00.53.24:279][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2021.11.11-00.53.24:279][635]LogFileHelpers: Loading map 'SewerLevel' took 0.104
+[2021.11.11-00.53.29:649][881]Cmd: DELETE
+[2021.11.11-00.53.29:649][881]Cmd: ACTOR DELETE
+[2021.11.11-00.53.29:653][881]LogEditorActor: Deleted Actor: Brush
+[2021.11.11-00.53.29:686][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.11.11-00.53.29:697][881]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.11.11-00.53.37:694][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.11-00.53.38:078][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.11-00.53.38:106][244]LogSavePackage: Moving '../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Saved/SewerLevel18F34EDB484E85DE727F0D9C9FD64053.tmp' to '../../../../../../Users/merik/Documents/GitHub/BadWaterUnderground/BadWaterUnderground/Content/FirstPersonBP/Maps/SewerLevel.umap'
+[2021.11.11-00.53.38:114][244]LogFileHelpers: Saving map 'SewerLevel' took 0.071
+[2021.11.11-00.53.38:130][244]AssetCheck: New page: Asset Save: SewerLevel
+[2021.11.11-00.53.38:130][244]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/SewerLevel.SewerLevel
+[2021.11.11-00.55.32:674][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.11-00.55.55:442][528]LogSlate: Took 0.008922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.11-00.56.00:025][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.11.11-00.56.05:720][900]LogSlate: Window 'Source Control Login' being destroyed
+[2021.11.11-00.58.42:606][751]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.11-00.59.18:845][859]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.11-00.59.59:846][981]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.11-01.00.13:936][ 23]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
